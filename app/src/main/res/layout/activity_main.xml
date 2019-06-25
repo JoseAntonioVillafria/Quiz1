@@ -45,7 +45,7 @@
     <TextView
         android:id="@+id/textView3"
         style="@style/Font3"
-        android:text="name"
+        android:text="User"
         app:layout_constraintBottom_toBottomOf="@+id/editText"
         app:layout_constraintEnd_toEndOf="@+id/editText"
         app:layout_constraintHorizontal_bias="0.04"
